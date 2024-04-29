@@ -1,3 +1,3 @@
-# Lects14-example-repo
+# Lects14-1-example-repository
 
 my repo!!!
